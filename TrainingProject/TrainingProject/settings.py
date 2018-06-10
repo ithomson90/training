@@ -28,7 +28,7 @@ SECRET_KEY = '4z#3#h+7s5g2=y%z-(d@%kl_)+=00+il(gcoao_$q@_@jc20z('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ithomson.pythonanywhere.com]
+ALLOWED_HOSTS = ['ithomson.pythonanywhere.com',]
 
 
 # Application definition
